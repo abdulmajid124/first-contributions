@@ -275,7 +275,6 @@ Chris
 - [Elif Ş.](https://github.com/elifsz)
 - [Elijah Weiss](https://github.com/eweiss4)
 - [Elijah](https://github.com/Elijah647)
-- [Abdul Majid](https://github.com/abdulmajid124)
 - [Emanuel Abou Samra](https://github.com/Mannolis)
 - [Emil Piesik](https://github.com/piesikot)
 - [Emrah Isović](https://github.com/EmrahIso)
